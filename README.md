@@ -1,6 +1,6 @@
 # Fraudsters
 Case-study on detecting fraud for an event-hosting webiste. 
-
+d2dd
 This is a group-project invovling four data-science students where we were given a task to create a fraud-detection software package for a 'client' who wanted a web-based app to help them point out which accounts were at high-risk of being fruadulent. Event-hosting websites, such as Eventbrite, might be the unwitting host for credit-card thieves to cash out. These fraudsters could start up a fake event, set a high price for admittance, and use the stolen credit card to buy out all the tickets and send the 'sales' straight to their bank account. 
 The challenge was to build a model that could detect when/where these fraudsters were and then build software that our client could easily use to identify who these fraudsters were. 
 
